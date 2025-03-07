@@ -1,3 +1,3 @@
 # readme file
 
-Get ready to learn
+Get ready to learn.
